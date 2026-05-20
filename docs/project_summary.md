@@ -1,5 +1,4 @@
 # Capstone Project Summary
-## Applied Python for Data Analysis
 
 ---
 
